@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sidebar-Buzz</name>
+   <tag></tag>
+   <elementGuidId>14e174a8-4848-4c81-a7e0-f0246a6b1f6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/aside/nav/div[2]/ul/li[12]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;app&quot;]/div[1]/div[1]/aside/nav/div[2]/ul/li[12]/a</value>
+      <webElementGuid>3d4b171f-a614-4aaf-969d-378cc0ee9155</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

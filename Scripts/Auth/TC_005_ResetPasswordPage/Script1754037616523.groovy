@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
-WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/linkbutton_Forgot your password'))
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_OrangeHRM/Text_h6_Reset Password'), 10)
+WebUI.click(findTestObject('Object Repository/OrangeHRM/RecordPage_OrangeHRM/linkbutton_Forgot your password'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/OrangeHRM/RecordPage_OrangeHRM/Text_h6_Reset Password'), 10)
 
 WebUI.closeBrowser()

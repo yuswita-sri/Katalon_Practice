@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_OrangeHRM/Text_h5_Login'), 10)
+WebUI.verifyElementPresent(findTestObject('Object Repository/OrangeHRM/RecordPage_OrangeHRM/Text_h5_Login'), 10)
 
 
 
